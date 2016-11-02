@@ -1,10 +1,4 @@
-﻿  StudentTest2.cpp
-  StudentTest.cpp
-  Student.cpp
-  stdafx.cpp
-  Course.cpp
-  Generating Code...
-cppunit.lib(TestResultCollector.obj) : warning LNK4099: PDB 'cppunit.pdb' was not found with 'cppunit.lib(TestResultCollector.obj)' or at 'D:\Gram\GitRepo\Midterm\StudentTest2\Debug\cppunit.pdb'; linking object as if no debug info
+﻿cppunit.lib(TestResultCollector.obj) : warning LNK4099: PDB 'cppunit.pdb' was not found with 'cppunit.lib(TestResultCollector.obj)' or at 'D:\Gram\GitRepo\Midterm\StudentTest2\Debug\cppunit.pdb'; linking object as if no debug info
 cppunit.lib(TestSuccessListener.obj) : warning LNK4099: PDB 'cppunit.pdb' was not found with 'cppunit.lib(TestSuccessListener.obj)' or at 'D:\Gram\GitRepo\Midterm\StudentTest2\Debug\cppunit.pdb'; linking object as if no debug info
 cppunit.lib(TextTestProgressListener.obj) : warning LNK4099: PDB 'cppunit.pdb' was not found with 'cppunit.lib(TextTestProgressListener.obj)' or at 'D:\Gram\GitRepo\Midterm\StudentTest2\Debug\cppunit.pdb'; linking object as if no debug info
 cppunit.lib(TextTestRunner.obj) : warning LNK4099: PDB 'cppunit.pdb' was not found with 'cppunit.lib(TextTestRunner.obj)' or at 'D:\Gram\GitRepo\Midterm\StudentTest2\Debug\cppunit.pdb'; linking object as if no debug info
