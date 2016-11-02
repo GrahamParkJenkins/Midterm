@@ -25,7 +25,7 @@ void StudentTest::TestConstructor()
 	CPPUNIT_ASSERT(student_name == "jim");
 
 	string student_number = stu.GetStuNumber();
-	CPPUNIT_ASSERT(student_number == "94-111000-48");
+	CPPUNIT_ASSERT(student_number == "94-111000-49");
 
 	
 
